@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Aina</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to right, #ff9a9e, #fad0c4);
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            text-align: center;
+            background: rgba(255, 255, 255, 0.8);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #ff4b5c;
+        }
+        p {
+            font-size: 1.2em;
+        }
+        .heart {
+            color: #ff4b5c;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Para Aina</h1>
+        <p>Querida Aina,</p>
+        <p>Quiero que sepas que eres la persona más especial en mi vida.</p>
+        <p>Te amo con todo mi corazón y cada día agradezco tenerte a mi lado.</p>
+        <p>Eres mi todo y siempre lo serás.</p>
+        <p class="heart">❤️</p>
+        <p>Con amor,</p>
+        <p>Iván</p>
+    </div>
+</body>
+</html>
